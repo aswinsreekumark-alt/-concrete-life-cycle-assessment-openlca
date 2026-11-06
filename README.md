@@ -62,3 +62,48 @@ M.Sc. Engineering Geohazards
 RWTH Aachen University
 
 **Tools:** openLCA | ecoinvent | Life Cycle Assessment | Carbon Footprint Analysis | GWP100
+---
+
+## OpenLCA Model Screenshots
+
+### 1. Conventional Concrete – Mix 1
+
+![Mix 1](Screenshots/Mix1_Conventional_Concrete.png)
+
+### 2. Fly Ash Concrete – Mix 2
+
+![Mix 2](Screenshots/Mix2_Fly_Ash_Concrete.png)
+
+### 3. GGBS Concrete – Mix 3
+
+![Mix 3](Screenshots/Mix3_GGBS_Concrete.png)
+
+### 4. Fly Ash Provider Assignment
+
+![Fly Ash Provider](Screenshots/02_Fly_Ash_Provider_Assignment.png)
+
+### 5. Product Systems
+
+![Product Systems](Screenshots/03_Product_Systems.png)
+
+### 6. IPCC 2021 Impact Assessment
+
+![IPCC Assessment](Screenshots/04_IPCC_2021_Assessment.png)
+
+### 7. Contribution Analysis
+
+![Mix 1 Contribution](Screenshots/05_Mix1_Contribution_Tree.png)
+
+![Mix 2 Contribution](Screenshots/06_Mix2_Contribution_Tree.png)
+
+![Mix 3 Contribution](Screenshots/07_Mix3_Contribution_Tree.png)
+
+### 8. Comparative Results
+
+![GWP100 Comparison](Screenshots/08_GWP100_Comparison.png)
+
+---
+
+## Full Project Report
+
+See the complete academic project report in this repository.
