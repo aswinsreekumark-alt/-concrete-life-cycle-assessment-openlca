@@ -57,7 +57,7 @@ The GGBS-based concrete showed a 57.09% lower modelled GWP100 than conventional 
 - GWP100 comparison and contribution analysis.
 - Background dataset investigation.
 
-## Author
+## Aswin Sreekumar
 M.Sc. Engineering Geohazards  
 RWTH Aachen University
 
